@@ -11,7 +11,7 @@ bus-neutral contracts in [`hwcore`](https://github.com/Tape-Out/hwcore), assembl
 
 ## Status
 
-Planned. The entry in [`index`](https://github.com/Tape-Out/index) tracks what lands when.
+Planned, not started. The ICS55 process has no SerDes, so this needs another process or an FPGA.
 
 ## License
 
